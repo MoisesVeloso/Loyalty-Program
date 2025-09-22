@@ -44,11 +44,3 @@ This project allows small businesses to manage customers, record transactions, a
 - **transaction_items**  
   - id, transaction_id, item_id, quantity  
 
----
-
-## 🚀 Installation & Setup
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/php-loyalty-system.git
-   cd php-loyalty-system
